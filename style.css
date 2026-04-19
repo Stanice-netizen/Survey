@@ -27,7 +27,7 @@ form {
 }
 
 .formbox {
-  background-color: rgba(25, 30, 60, 85%);
+  background-color: rgba(25 30 60 / 85%);
   width: 500px;
   margin: 0 auto;
   padding: 30px;

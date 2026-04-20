@@ -24,6 +24,14 @@ form {
   width: 100%;
   padding: 10px 16px;
   font-size: 1rem;
+  border-radius: 4px;
+}
+
+.name-select {
+  width: 500px;
+  padding: 10px 16px;
+  font-size: 1rem;
+  border-radius: 4px;
 }
 
 .formbox {
